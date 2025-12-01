@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-joblib
 pandas
+joblib
 catboost
-sklearn
+scikit-learn
+numpy
